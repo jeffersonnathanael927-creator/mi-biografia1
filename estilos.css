@@ -1,0 +1,47 @@
+/* estilos.css */
+body {
+ background-color: #f0f8ff; /* Fondo celeste claro */
+ font-family: Arial, sans-serif;
+ margin: 0;
+ padding: 0;
+}
+header {
+ background-color: rgb(70, 130, 180); /* Azul acero */
+ color: white; /* Texto blanco */
+ padding: 20px;
+ text-align: center; }
+nav {
+ background-color: #333; /* Gris oscuro */
+ padding: 10px;
+ text-align: center;
+}
+nav a {
+ color: white;
+ text-decoration: none;
+ padding: 0 15px;
+}
+nav a:hover {
+ color: #add8e6; /* Azul claro al pasar el ratón */
+}
+main {
+ padding: 20px;
+}
+section {
+ background-color: rgba(255, 255, 255, 0.9); /* Blanco con algo de 
+transparencia */
+ margin-bottom: 20px;
+ padding: 15px;
+ border-radius: 8px; /* Bordes ligeramente redondeados */
+}
+h2 {
+ color: #4682b4; /* Azul acero para los títulos de sección */
+}
+footer {
+ background-color: #333;
+ color: white;
+ text-align: center;
+ padding: 10px;
+ position: fixed;
+ bottom: 0;
+ width: 100%;
+}
